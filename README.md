@@ -1,5 +1,7 @@
 cd carpeta-proyecto
+
 npm install
+
 npm run dev
 
 
